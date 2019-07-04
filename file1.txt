@@ -5,3 +5,4 @@ bsic commands for ubuntu
 
 gitam hyderabad
 get sessions to sync data
+kata naidu
